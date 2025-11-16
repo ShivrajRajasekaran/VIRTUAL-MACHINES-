@@ -1,7 +1,7 @@
 # VIRTUAL-MACHINES-
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: ADITHYA V
-### REG.NO: 212223110001
+### NAME: SHIVRAJ R 
+### REG.NO: 212223110051
 # Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
